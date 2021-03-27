@@ -3,8 +3,7 @@ Personal_ Project
 </a>
 </br>
 
-## 프로젝트 이름
-  : Memo App _ 총 4주( 2020.11.16~2020.12.8 )       
+## 프로젝트 이름 : Memo App _ 총 4주( 2020.11.16~2020.12.8 )       
   
 6동안의 구로 DDD를 통해 배운 html, css, javascript, flask를 이용한 웹페이지 만들기
 첫번째 프로젝트로 부족함이 많겠지만 열심히 한 번 해보자!!
@@ -16,25 +15,24 @@ Personal_ Project
 #### [4. 버전 별 설명](#review)
 
 </br>
-
 <a name="stack">
-### 1. 사용 기술
+  ### 1. 사용 기술
 </a>
 
-* - html
-* - css
-* - javascript
-* - jquery
-* - mongoDB
-* - python
-* - flask
+ - html
+ - css
+ - javascript
+ - jquery
+ - mongoDB
+ - python
+ - flask
 
 [맨 위로 가기](#top)
 </br>
-
 <a name="purpose">
-### 2. 프로젝트 목적
+  ### 2. 프로젝트 목적
 </a>
+
 - html, css, javscript에 대한 이해
 - CSS 화면 레이아웃 구성하기
 - CRUD 게시판 구현
