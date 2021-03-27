@@ -1,7 +1,11 @@
 <a name="top">
-### Personal_ Project ### 
+Personal_ Project
 </a>
-# sparta_my_project : Memo App _ 총 4주( 2020.11.16~2020.12.8 )
+</br>
+
+## 프로젝트 이름
+  : Memo App _ 총 4주( 2020.11.16~2020.12.8 )       
+  
 6동안의 구로 DDD를 통해 배운 html, css, javascript, flask를 이용한 웹페이지 만들기
 첫번째 프로젝트로 부족함이 많겠지만 열심히 한 번 해보자!!
 
@@ -16,6 +20,7 @@
 <a name="stack">
 ### 1. 사용 기술
 </a>
+
 * - html
 * - css
 * - javascript
