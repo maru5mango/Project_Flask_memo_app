@@ -15,7 +15,8 @@ Personal_ Project
 #### [4. 버전 별 설명](#review)
 
 </br>
-<a name="stack">
+
+<a name="purpose">
   ### 1. 사용 기술
 </a>
 
@@ -27,7 +28,6 @@ Personal_ Project
  - python
  - flask
 
-[맨 위로 가기](#top)
 </br>
 <a name="purpose">
   ### 2. 프로젝트 목적
@@ -41,31 +41,33 @@ Personal_ Project
 - (희망사항) 페이지네이션
 - (희망사항) 메모 자동 요약 _ 파이썬 자연어 처리 기능 이용     
 
-[맨 위로 가기](#top)
+
 </br>
 <a name="demo_video">
 ### 3. 최종 데모 영상
 </a>
 
-
-[맨 위로 가기](#top)
 </br>
 <a name="review">
 ### 4. 버전 별 설명
 </a>
+
 ## Ver_1:
+
 - html 파일로 레이아웃 설계
 - css로 화면 구성하기
 - 메모 등록하기
 - DB 연결
 
 ## Ver_2:
+
 - flask Jinja 템플릿 이용하기
 - 헤더, 메모리스트, 메모장 등 기능 별로 나누기
 - CRUD 구현
 - 제목, 이름 검색 가능
 
 ## Ver_3: 
+
 - MDBootstrap 사용 -> 깔끔한 디자인
 - 로그인 기능 구현
 - 필터 등록
