@@ -9,16 +9,14 @@ Personal_ Project
 첫번째 프로젝트로 부족함이 많겠지만 열심히 한 번 해보자!!
 
 ## 목차
-#### [1. 사용 기술 ](#stack)
-#### [2. 프로젝트 목적](#purpose)
-#### [3. 최종 데모 영상](#demo_video)
-#### [4. 버전 별 설명](#review)
+#### [1. 사용 기술 ]
+#### [2. 프로젝트 목적]
+#### [3. 최종 데모 영상]
+#### [4. 버전 별 설명]
 
 </br>
 
-<a name="purpose">
-  ### 1. 사용 기술
-</a>
+## 1. 사용 기술
 
  - html
  - css
@@ -29,9 +27,8 @@ Personal_ Project
  - flask
 
 </br>
-<a name="purpose">
-  ### 2. 프로젝트 목적
-</a>
+
+## 2. 프로젝트 목적
 
 - html, css, javscript에 대한 이해
 - CSS 화면 레이아웃 구성하기
@@ -43,30 +40,28 @@ Personal_ Project
 
 
 </br>
-<a name="demo_video">
-### 3. 최종 데모 영상
-</a>
+
+## 3. 최종 데모 영상
 
 </br>
-<a name="review">
-### 4. 버전 별 설명
-</a>
 
-## Ver_1:
+## 4. 버전 별 설명
+
+### Ver_1:
 
 - html 파일로 레이아웃 설계
 - css로 화면 구성하기
 - 메모 등록하기
 - DB 연결
 
-## Ver_2:
+### Ver_2:
 
 - flask Jinja 템플릿 이용하기
 - 헤더, 메모리스트, 메모장 등 기능 별로 나누기
 - CRUD 구현
 - 제목, 이름 검색 가능
 
-## Ver_3: 
+### Ver_3: 
 
 - MDBootstrap 사용 -> 깔끔한 디자인
 - 로그인 기능 구현
